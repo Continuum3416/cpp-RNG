@@ -1,1 +1,1 @@
-Mersenne Twister 19937 RNG with 8 different methods of seeding with SFML, OpenGL and Vulkan support.
+Mersenne Twister 19937 RNG with 11 different methods of seeding with SFML, OpenGL and Vulkan support.
